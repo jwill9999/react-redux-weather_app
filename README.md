@@ -11,7 +11,7 @@ An example of a weather application using React Redux and an external api. Here 
 Google Maps is also implemented into the display to provide additional user information. The aim of this is to give a clear example of implementing Redux into a React application.
 
 
-![](https://www.dropbox.com/home/Pictures/Screenshots?preview=weathermap.jpg)
+Format ![Image Link](https://www.dropbox.com/s/laaxrh1je4or2du/weathermap.jpg?dl=0)
 
 ## Key Features
 
