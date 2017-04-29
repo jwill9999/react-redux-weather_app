@@ -2,6 +2,10 @@
   "name": "react-redux-weather_app",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Jason Williams",
+    "email": "jwill9999@icloud.com"
+  },
   "dependencies": {
     "axios": "^0.16.1",
     "google-map-react": "^0.24.0",
@@ -22,5 +26,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/jwill9999/react-redux-weather_app.git"
   }
 }
