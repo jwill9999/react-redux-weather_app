@@ -2,7 +2,7 @@
 
 ```
 > git clone https://github.com/jwill9999/react-redux-weatherapp.git
-> cd into file
+> cd into react-redux-weatherapp
 > npm install
 > npm start
 ```
