@@ -13,7 +13,6 @@ Google Maps is also implemented into the display to provide additional user info
  
 <div style="text-align:center" markdown="1">
 
-
 ![](./public/image/WeatherMapimage.png)
 
 </div>
